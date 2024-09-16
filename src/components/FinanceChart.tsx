@@ -1,6 +1,8 @@
 const FinanceChart = () => {
   return (
-    <div className=''>FinanceChart</div>
+    <div className=''>
+      
+    </div>
   )
 }
 
